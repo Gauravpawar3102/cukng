@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom';
 import RecipeList from '../../components/RecipeList';
 import { useFetch } from '../../hooks/useFetch';
 
-// styles
+// styles.
 import './Search.css';
 
 function Search() {
